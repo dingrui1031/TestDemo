@@ -11,3 +11,5 @@ git update3
 git update4
 =======
 >>>>>>> parent of 843640d... git test2
+
+git branch
